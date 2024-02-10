@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/green_bg_color"
+    android:orientation="vertical"
+    android:gravity="center">
+    <LinearLayout
+        android:id="@+id/about_layout"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="@color/green_bg_color"
+		xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:orientation="vertical"
+	    android:layout_gravity="center"
+	    android:gravity="center">
+	    <TextView
+	        android:id="@+id/about"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/black_color"
+	        android:textSize="16dip"
+	        android:textStyle="bold"
+	        android:layout_marginTop="4dp"
+	        android:layout_marginBottom="2dp"/>
+	    <ImageView
+	        android:id="@+id/image_logo"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:padding="1dip"
+	        android:src="@drawable/about_icon"
+	        android:layout_centerHorizontal="true"/>
+    </LinearLayout>
+	    
+    <LinearLayout
+        android:id="@+id/buttons_panel"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:gravity="bottom"
+	    android:layout_weight="1">
+	    <Button
+	        android:background="@drawable/button_ok"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/button_ok"
+	        android:textStyle="bold"
+	        android:textSize="20sp"
+	        android:layout_gravity="bottom"
+	        android:padding="2dip"
+	        android:layout_margin="2dip">
+	    </Button>
+	</LinearLayout>
+</LinearLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Four On The Farm</string>
+    <string name="game_title">Four On The Farm</string>
+    
+    <string name="start">Start</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="settings">Settings</string>
+    
+    <string name="level1">Easy</string>
+    <string name="level2">Medium</string>
+    <string name="level3">Hard</string>
+    
+    <string name="sound_on_off">Sound on/off</string>
+    
+    <string name="new_game">New game</string>
+    <string name="help">Help</string>
+	<string name="about">About</string>
+    <string name="exit">Exit</string>
+    
+    <string name="you">You</string>
+    <string name="computer">Computer</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    
+    <string name="game_level0">HUMAN VS HUMAN</string>
+    <string name="game_level1">HUMAN VS COMPUTER (EASY)</string>
+    <string name="game_level2">HUMAN VS COMPUTER (MEDIUM)</string>
+    <string name="game_level3">HUMAN VS COMPUTER (HARD)</string>
+    
+    <string name="score">Score: %1$s</string>
+    
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_name">Name:</string>
+    <string name="enter_score">Score:</string>
+    
+    <string name="one_player">1 player</string>
+    <string name="two_players">2 players</string>
+    
+    
+    <string name="player">Player</string>
+    <string name="first_player">Player 1</string>
+    <string name="second_player">Player 2</string>
+
+    <string name="menu">Menu</string>
+    <string name="play">Play</string>
+    <string name="settings_button">Settings</string>
+    
+    <string name="your_name">Enter your name:</string>    
+    <string name="player1_name">Enter player 1 name:</string>
+    <string name="player2_name">Enter player 2 name:</string>
+    
+    <string name="continue_game">Continue</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="adds">Adds goes here</string>
+    <string name="settings_label">Settings...</string>
+    <string name="settings_title">Connect Four settings</string>
+    <string name="settings_shortcut">s</string>
+    
+    <string name="players_title">Select players:</string>
+    <string name="player1">Human vs Human</string>
+    <string name="player2">Human vs Computer</string>
+    
+    <string name="levels_title">Select game level:</string>
+    
+    <string name="players">Players</string>
+    <string name="name">Player Name</string>
+    <string name="game_level">Game Level</string>
+    <string name="players_names">Enter players names:</string>
+    
+    <string name="dialog_title">Result:</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    
+    <string name="version">Four On The Farm ver %1$s</string>
+    <string name="purchase">Purchase at:</string>
+    <string name="purchase_link">www.pearmobile.com</string>
+    <string name="homepage">Homepage:</string>
+    <string name="homepage_link">www.pearmobile.com</string>
+    <string name="pearmobile">PearMobile Ltd. 2006-2012</string>
+    
+    <string name="msg_exit">Are you sure you want to exit?</string>
+    <string name="msg_new_game">Are you sure you want to start a new game?</string>
+    
+    <string name="result1">%1$s wins!</string>
+    <string name="result3">Nobody win!</string> 
+    
+    <string name="instructions">INSTRUCTIONS</string>
+    
+    <string name="help_text">
+        Four on the Farm is an amazing two-player game, you can play on one of two sides: tomatoes or pumpkins. The goal of the game is to connect four pumpkins/tomatoes horizontally, vertically or diagonally before your opponent can do that. Tap the garden bed in which you want to put your pumpkin/tomato, the vegetable will appear at the top and then fall down. The game has two modes: human vs computer (three difficulty levels) and human vs human. Have a nice game!</string>
+    
+    <string name="about_text">
+        FourOnTheFarm is a two-player game in which the players first choose a color and then take turns dropping colored discs from the top into a seven-column, six-row vertically-suspended grid. The pieces fall straight down, occupying the next available space within the column. The object of the game is to connect four of ones own discs of the same color next to each other vertically, horizontally, or diagonally before your opponent. To win the game, the player must connect only four pieces together. In some variations of the game, a connect five is what is known as a bust. Although the object is to be able to successfully connect four pieces, the player loses if they are unable to limit the gameboard to only connecting four pieces.
+    </string>
+    
+    <string name="pumpkins">Pumpkins</string>
+    <string name="tomatoes">Tomatoes</string>
+    <string name="your_turn">Your turn</string>
+    <string name="computers_turn">Computer</string>
+    <string name="pumpkins_won">Pumpkins won!</string>
+    <string name="tomatoes_won">Tomatoes won!</string>
+    <string name="you_won">You won!</string>
+    <string name="computer_won">Computer won!</string>
+    <string name="nobody_won">Nobody won!</string>
+    
+    <string name="to_buy">You can remove ads (advertisment banners) from the application. Just push the button \"Buy\" for that.</string>
+</resources>
