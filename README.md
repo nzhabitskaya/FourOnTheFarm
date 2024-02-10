@@ -1,3 +1,4 @@
+
 # Connect Four Game
 
 A Connect Four game based on https://en.wikipedia.org/wiki/Connect_Four algorithm.
@@ -21,4 +22,6 @@ Click to play demo video.
 
 | Select Mode | Game Board | Final Score |
 |:----    |    :----:    |    ----:|
-|![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552809.png)|![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552836.png)|![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552883.png)|
+|![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552809.png)|![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552883.png)|![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552883.png)|
+
+
