@@ -21,7 +21,7 @@ Click to play a demo video.
 ## Screenshots
 
 | Select Mode | Game Board | Final Score |
-|:----    |    :----:    |    ----:|
+| :----: | :----: | :----: |
 |![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552809.png)|![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552836.png)|![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552883.png)|
 
 
