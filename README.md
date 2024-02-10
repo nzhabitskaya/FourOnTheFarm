@@ -1,4 +1,3 @@
-
 # Connect Four Game
 
 A Connect Four game based on https://en.wikipedia.org/wiki/Connect_Four algorithm.
@@ -11,6 +10,8 @@ Plays animations and sounds, calculates score in the end of the game.
 
 ## Demo
 
+Click to play demo video.
+
 [![Watch the video](http://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552801-1.png)](http://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/ConnectFourGame.mp4)
 
 
@@ -19,5 +20,5 @@ Plays animations and sounds, calculates score in the end of the game.
 ## Screenshots
 
 | Select Mode | Game Board | Final Score |
-| :----: | :----: | :----: |
-| ![App Screenshot](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552809.png) | ![App Screenshot](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552836.png) | ![App Screenshot](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552883.png) |
+|:----    |    :----:    |    ----:|
+|![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552809.png)|![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552836.png)|![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/Screenshot_1707552883.png)|
