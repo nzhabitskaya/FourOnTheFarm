@@ -13,7 +13,7 @@ Plays animations and sounds, calculates score in the end of the game.
 
 Click to play a demo video.
 
-[![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/ConnectFourGame-ezgif.com-video-to-gif-converter.gif)
+![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/ConnectFourGame-ezgif.com-video-to-gif-converter.gif)
 
 
 
