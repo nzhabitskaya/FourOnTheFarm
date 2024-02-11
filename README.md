@@ -11,9 +11,7 @@ Plays animations and sounds, calculates score in the end of the game.
 
 ## Demo
 
-Click to play a demo video.
-
-![](https://3kr.a56.myftpupload.com/wp-content/uploads/2024/02/ConnectFourGame-ezgif.com-video-to-gif-converter.gif)
+![Preview](https://github.com/nzhabitskaya/FourOnTheFarm/blob/main/ConnectFourGame.gif){: style="width:200;height:411"}
 
 
 
