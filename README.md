@@ -11,8 +11,8 @@ Plays animations and sounds, calculates score in the end of the game.
 
 ## Demo
 
-![](https://github.com/nzhabitskaya/FourOnTheFarm/blob/main/ConnectFourGame.gif){ width="200" height="411" style="display: block; margin: 0 auto" }
-
+|![](https://github.com/nzhabitskaya/FourOnTheFarm/blob/main/ConnectFourGame.gif) |
+| :--: |
 
 
 
