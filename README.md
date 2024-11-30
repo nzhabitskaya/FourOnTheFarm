@@ -1,8 +1,8 @@
 
 # Connect Four Game
 
-A Connect Four game based on https://en.wikipedia.org/wiki/Connect_Four algorithm.
-Has 4 modes: human vs human and 3 levels of human vs computer.
+A Connect Four game is based on https://en.wikipedia.org/wiki/Connect_Four algorithm.
+It has 4 modes: human vs human and 3 levels of human vs computer.
 
 Plays animations and sounds, calculates score in the end of the game.
 
